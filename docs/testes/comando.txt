@@ -1,0 +1,10 @@
+Comando para executar os testes da classe Cliente:
+
+npm run testes:cliente
+
+Também é possível executar diretamente com:
+
+npx tsx src/testes/testeCliente.ts
+
+Depois de executar, tire prints reais da saída do terminal e salve-os nesta pasta (docs/testes).
+Os prints não foram inventados nem incluídos antecipadamente.

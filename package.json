@@ -1,0 +1,19 @@
+{
+  "name": "cadastro-produtos",
+  "version": "1.0.0",
+  "description": "Atividade de Node.js, Express e TypeScript com modelo Cliente",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "testes:cliente": "tsx src/testes/testeCliente.ts"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.13.4",
+    "tsx": "^4.19.3",
+    "typescript": "^5.7.3"
+  }
+}
